@@ -417,7 +417,8 @@ obj/
 .idea/**/tasks.xml
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
-.idea/**/shelf
+.idea/**
+src/.idea/**
 
 # AWS User-specific
 .idea/**/aws.xml
